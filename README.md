@@ -1,2 +1,2 @@
-# esx_vape
-Simple ESX script to implement vape usage
+#ESX_Vape
+This script introduces a usable vape feature, allowing players to enjoy effects such as stress reduction and more.
